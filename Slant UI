@@ -1,0 +1,108 @@
+#e1_2 { 
+	overflow:hidden;
+	background-color:rgba(246.49999290704727, 77.0312449336052, 77.0312449336052, 1);
+	opacity:1;
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}
+#e1_8 { 
+	transform: rotate(22.19940838281758deg);
+	background-color:rgba(101.45214691758156, 76.08910828828812, 76.08910828828812, 1);
+	opacity:1;
+	width:1440px;
+	height:52px;
+	position:absolute;
+	left:545.647216796875px;
+	top:-269px;
+}
+#e1_5 { 
+	transform: rotate(22.19940838281758deg);
+	background-color:rgba(101.45214691758156, 76.08910828828812, 76.08910828828812, 1);
+	opacity:1;
+	width:2118.832763671875px;
+	height:52px;
+	position:absolute;
+	left:-15.352783203125px;
+	top:-18px;
+}
+#e1_14 { 
+	transform: rotate(22.19940838281758deg);
+	background-color:rgba(101.45214691758156, 76.08910828828812, 76.08910828828812, 1);
+	opacity:1;
+	width:2118.832763671875px;
+	height:52px;
+	position:absolute;
+	left:241.647216796875px;
+	top:-144px;
+}
+#e1_6 { 
+	transform: rotate(22.19940838281758deg);
+	background-color:rgba(101.45214691758156, 76.08910828828812, 76.08910828828812, 1);
+	opacity:1;
+	width:2118.832763671875px;
+	height:52px;
+	position:absolute;
+	left:-104.352783203125px;
+	top:168px;
+}
+#e1_15 { 
+	transform: rotate(-21.999999006829288deg);
+	background-color:rgba(0, 0, 0, 1);
+	opacity:1;
+	width:2118.832763671875px;
+	height:52px;
+	position:absolute;
+	left:0px;
+	top:1257.7286376953125px;
+}
+#e1_16 { 
+	transform: rotate(-21.999999006829288deg);
+	background-color:rgba(0, 0, 0, 1);
+	opacity:1;
+	width:2118.832763671875px;
+	height:52px;
+	position:absolute;
+	left:-143px;
+	top:1005.7286987304688px;
+}
+#e1_17 { 
+	transform: rotate(-21.999999006829288deg);
+	background-color:rgba(0, 0, 0, 1);
+	opacity:1;
+	width:2118.832763671875px;
+	height:52px;
+	position:absolute;
+	left:-252px;
+	top:745.7286987304688px;
+}
+#e1_18 { 
+	transform: rotate(-21.999999006829288deg);
+	background-color:rgba(0, 0, 0, 1);
+	opacity:1;
+	width:2118.832763671875px;
+	height:52px;
+	position:absolute;
+	left:-407px;
+	top:493.72869873046875px;
+}
+#e1_12 { 
+	transform: rotate(22.19940838281758deg);
+	background-color:rgba(101.45214691758156, 76.08910828828812, 76.08910828828812, 1);
+	opacity:1;
+	width:2118.832763671875px;
+	height:52px;
+	position:absolute;
+	left:-213.352783203125px;
+	top:377px;
+}
+#e1_10 { 
+	transform: rotate(22.19940838281758deg);
+	background-color:rgba(101.45214691758156, 76.08910828828812, 76.08910828828812, 1);
+	opacity:1;
+	width:2118.832763671875px;
+	height:52px;
+	position:absolute;
+	left:-348.352783203125px;
+	top:600px;
+}
